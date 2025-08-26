@@ -85,12 +85,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE AUTOR-->
-## 🦸 Autora
-
+## <img src="https://github.com/user-attachments/assets/c7002718-57e0-4c87-9a47-5c14e509d9ea" width="30px" /> Autora
 <a href="https://br.linkedin.com/in/-">
 Iris Caetano Lemos da Silva</a>
  <br />
  
+
 
 
 
